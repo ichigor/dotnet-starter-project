@@ -1,0 +1,11 @@
+/home/igor/projects/dotnet/bin/Debug/netcoreapp3.0/dotnet
+/home/igor/projects/dotnet/bin/Debug/netcoreapp3.0/dotnet.deps.json
+/home/igor/projects/dotnet/bin/Debug/netcoreapp3.0/dotnet.runtimeconfig.json
+/home/igor/projects/dotnet/bin/Debug/netcoreapp3.0/dotnet.runtimeconfig.dev.json
+/home/igor/projects/dotnet/bin/Debug/netcoreapp3.0/dotnet.dll
+/home/igor/projects/dotnet/bin/Debug/netcoreapp3.0/dotnet.pdb
+/home/igor/projects/dotnet/obj/Debug/netcoreapp3.0/dotnet.csprojAssemblyReference.cache
+/home/igor/projects/dotnet/obj/Debug/netcoreapp3.0/dotnet.AssemblyInfoInputs.cache
+/home/igor/projects/dotnet/obj/Debug/netcoreapp3.0/dotnet.AssemblyInfo.cs
+/home/igor/projects/dotnet/obj/Debug/netcoreapp3.0/dotnet.dll
+/home/igor/projects/dotnet/obj/Debug/netcoreapp3.0/dotnet.pdb
